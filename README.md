@@ -1,6 +1,6 @@
 # Los Doce Pistoleros
 
-Proyecto de Sistemas Electrónicos Digitales, UPM (ETSIDI), curso 2026-2027
+Proyecto de Sistemas Electrónicos Digitales, UPM (ETSIDI), curso 2026-2027.
 
 ## Cómo se juega
 
